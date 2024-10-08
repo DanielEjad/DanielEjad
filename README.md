@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Ejad</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [Mibodetalles](mibodetalles.es)
+- 🔭 I’m currently working on [Mibodetalles](https://mibodetalles.es)
 
 - 🌱 I’m currently learning **Astro**
 
-- 👨‍💻 All of my projects are available at [portfolio.danielejad.com](portfolio.danielejad.com)
+- 👨‍💻 All of my projects are available at [portfolio.danielejad.com](https://portfolio.danielejad.com)
 
-- 📝 I regularly write articles on [danielejad.com](danielejad.com)
+- 📝 I regularly write articles on [danielejad.com](https://danielejad.com)
 
 - 📫 How to reach me **info@danilejad.com**
 

@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel Ejad</h1>
+<h1 align="center">Hi 👋, I'm Daniel Fernández</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [El Rincon de Kiko](https://elrincondekiko.com)
+- 🔭 I’m currently working on [Avicola Premium](https://avicolapremium.es)
 
 - 🌱 I’m currently learning **Astro**
 
